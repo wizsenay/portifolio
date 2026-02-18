@@ -410,10 +410,12 @@ section {
     border: 4px solid white;
     border-radius: 50%;
     box-shadow: 0 0 0 4px var(--primary-color);
+     margin-bottom: 1rem;
 }
 
 .timeline-content {
     background: var(--light-bg);
+    margin-bottom: 1rem;
     padding: 1.5rem;
     border-radius: 10px;
     transition: all 0.3s ease;
@@ -450,7 +452,7 @@ section {
     color: var(--text-light);
     font-size: 0.9rem;
     margin-top: 0.5rem;
-    padding-left: 50px;
+    padding-left: 20px;
     list-style: none;
 }
 
