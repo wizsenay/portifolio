@@ -446,6 +446,14 @@ section {
     margin-top: 0.5rem;
 }
 
+.details-list{
+    color: var(--text-light);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    padding-left: 50px;
+    list-style: none;
+}
+
 /* Contact Section */
 .contact {
     background: linear-gradient(135deg, var(--dark-bg) 0%, #1e293b 100%);
